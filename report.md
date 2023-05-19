@@ -1,6 +1,6 @@
 cd your-project
 
-git clone https://github.com/ne-kit-28/lab05
+git clone https://github.com/magistrmittil/lab05
 клонируем репозиторий
 
 cd lab05
